@@ -1,0 +1,1449 @@
+992404833 Jun 13 00:00:33 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 00409607afd1, reason "Inactivity"
+992405193 Jun 13 00:06:33 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 004096a6153a, reason "Inactivity"
+992405228 Jun 13 00:07:08 ResBldg97AP5 ResBldg97AP5 (Info): Station 004096f8258f Authenticated
+992405229 Jun 13 00:07:09 ResBldg97AP5 ResBldg97AP5 (Info): Station 004096f8258f Associated
+992405654 Jun 13 00:14:14 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096f8258f Authenticated
+992405654 Jun 13 00:14:14 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096f8258f Reassociated
+992405878 Jun 13 00:17:58 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096f8258f Authenticated
+992405878 Jun 13 00:17:58 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096f8258f Associated
+992406329 Jun 13 00:25:29 ResBldg84AP1 ResBldg84AP1 (Info): Deauthenticating 0030658643c4, reason "Inactivity"
+992407475 Jun 13 00:44:35 ResBldg97AP5 ResBldg97AP5 (Info): Deauthenticating 004096f8258f, reason "Inactivity"
+992409082 Jun 13 01:11:22 ResBldg43AP2 ResBldg43AP2 (Info): Deauthenticating 00306534d07b, reason "Inactivity"
+992412907 Jun 13 02:15:07 ResBldg100AP2 ResBldg100AP2 (Info): Deauthenticating 004096011ce9, reason "Inactivity"
+992418881 Jun 13 03:54:41 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Authenticated
+992418881 Jun 13 03:54:41 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Associated
+992420380 Jun 13 04:19:40 ResBldg13AP2 ResBldg13AP2 (Info): Deauthenticating 00022d458c14, reason "Inactivity"
+992428610 Jun 13 06:36:50 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Authenticated
+992428610 Jun 13 06:36:50 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Associated
+992431061 Jun 13 07:17:41 AcadBldg18AP3 AcadBldg18AP3 (Info): Station 0040962377ec Authenticated
+992431061 Jun 13 07:17:41 AcadBldg18AP3 AcadBldg18AP3 (Info): Station 0040962377ec Associated
+992431084 Jun 13 07:18:04 AcadBldg33AP6 AcadBldg33AP6 (Info): Station 004096daa8fe Authenticated
+992431084 Jun 13 07:18:04 AcadBldg33AP6 AcadBldg33AP6 (Info): Station 004096daa8fe Associated
+992431106 Jun 13 07:18:26 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Authenticated
+992431106 Jun 13 07:18:26 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Reassociated
+992431293 Jun 13 07:21:33 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Authenticated
+992431293 Jun 13 07:21:33 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Associated
+992431422 Jun 13 07:23:42 AcadBldg18AP2 AcadBldg18AP2 (Info): Deauthenticating 004096f8258f, reason "Inactivity"
+992431837 Jun 13 07:30:37 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 004096f20d21 Authenticated
+992431837 Jun 13 07:30:37 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 004096f20d21 Associated
+992432425 Jun 13 07:40:25 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992432425 Jun 13 07:40:25 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992432489 Jun 13 07:41:29 ResBldg44AP2 ResBldg44AP2 (Info): Station 003065abdbe8 Authenticated
+992432489 Jun 13 07:41:29 ResBldg44AP2 ResBldg44AP2 (Info): Station 003065abdbe8 Associated
+992432491 Jun 13 07:41:31 AdmBldg24AP2 AdmBldg24AP2 (Info): Deauthenticating 003065abdbe8, reason "Must Authenticate Before Associating"
+992432491 Jun 13 07:41:31 AdmBldg24AP2 AdmBldg24AP2 (Info): Station 003065abdbe8 Authenticated
+992432491 Jun 13 07:41:31 AdmBldg24AP2 AdmBldg24AP2 (Info): Station 003065abdbe8 Reassociated
+992432526 Jun 13 07:42:06 AcadBldg33AP1 AcadBldg33AP1 (Info): Deauthenticating 00306539db23, reason "Must Authenticate Before Associating"
+992432526 Jun 13 07:42:06 AcadBldg33AP1 AcadBldg33AP1 (Info): Station 00306539db23 Authenticated
+992432526 Jun 13 07:42:06 AcadBldg33AP1 AcadBldg33AP1 (Info): Station 00306539db23 Reassociated
+992432526 Jun 13 07:42:06 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 roamed
+992432526 Jun 13 07:42:06 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 roamed
+992432561 Jun 13 07:42:41 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306539db23, reason "Must Authenticate Before Associating"
+992432561 Jun 13 07:42:41 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Authenticated
+992432561 Jun 13 07:42:41 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Reassociated
+992432612 Jun 13 07:43:32 AcadBldg33AP1 AcadBldg33AP1 (Info): Station 00306539db23 Reassociated
+992432618 Jun 13 07:43:38 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Reassociated
+992432618 Jun 13 07:43:38 AcadBldg33AP1 AcadBldg33AP1 (Info): Station 00306539db23 roamed
+992432618 Jun 13 07:43:38 AcadBldg33AP1 AcadBldg33AP1 (Info): Station 00306539db23 roamed
+992432960 Jun 13 07:49:20 AcadBldg18AP3 AcadBldg18AP3 (Info): Deauthenticating 0040962377ec, reason "Inactivity"
+992433431 Jun 13 07:57:11 AdmBldg14AP2 AdmBldg14AP2 (Info): Station 0040966b9e99 Authenticated
+992433431 Jun 13 07:57:11 AdmBldg14AP2 AdmBldg14AP2 (Info): Station 0040966b9e99 Associated
+992433435 Jun 13 07:57:15 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Associated
+992433435 Jun 13 07:57:15 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Authenticated
+992433594 Jun 13 07:59:54 AcadBldg33AP6 AcadBldg33AP6 (Info): Station 003065b40dda Authenticated
+992433594 Jun 13 07:59:54 AcadBldg33AP6 AcadBldg33AP6 (Info): Station 003065b40dda Associated
+992433795 Jun 13 08:03:15 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be Authenticated
+992433795 Jun 13 08:03:15 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be Associated
+992433933 Jun 13 08:05:33 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Authenticated
+992433933 Jun 13 08:05:33 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Associated
+992434216 Jun 13 08:10:16 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601df57e26 Authenticated
+992434216 Jun 13 08:10:16 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601df57e26 Associated
+992434310 Jun 13 08:11:50 ResBldg44AP2 ResBldg44AP2 (Info): Deauthenticating 003065abdbe8, reason "Inactivity"
+992434313 Jun 13 08:11:53 AdmBldg24AP2 AdmBldg24AP2 (Info): Deauthenticating 003065abdbe8, reason "Inactivity"
+992434382 Jun 13 08:13:02 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992434418 Jun 13 08:13:38 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 00601d66adca Authenticated
+992434418 Jun 13 08:13:38 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 00601d66adca Associated
+992434510 Jun 13 08:15:10 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601d9bf252 Authenticated
+992434510 Jun 13 08:15:10 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601d9bf252 Associated
+992434521 Jun 13 08:15:21 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096d922b7 Authenticated
+992434521 Jun 13 08:15:21 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096d922b7 Associated
+992434551 Jun 13 08:15:51 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601d9bf252 Authenticated
+992434551 Jun 13 08:15:51 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601d9bf252 Associated
+992434553 Jun 13 08:15:53 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992434553 Jun 13 08:15:53 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992434644 Jun 13 08:17:24 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601d9bf252 Authenticated
+992434644 Jun 13 08:17:24 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 00601d9bf252 Associated
+992434883 Jun 13 08:21:23 AdmBldg6AP1 AdmBldg6AP1 (Info): Station 00306528bac1 Authenticated
+992434883 Jun 13 08:21:23 AdmBldg6AP1 AdmBldg6AP1 (Info): Station 00306528bac1 Associated
+992434896 Jun 13 08:21:36 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653eff99 Authenticated
+992434896 Jun 13 08:21:36 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653eff99 Associated
+992435116 Jun 13 08:25:16 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Authenticated
+992435116 Jun 13 08:25:16 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Associated
+992435221 Jun 13 08:27:01 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Authenticated
+992435221 Jun 13 08:27:01 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Associated
+992435295 Jun 13 08:28:15 ResBldg3AP5 ResBldg3AP5 (Info): Station 003065ed4f04 Authenticated
+992435295 Jun 13 08:28:15 ResBldg3AP5 ResBldg3AP5 (Info): Station 003065ed4f04 Associated
+992435416 Jun 13 08:30:16 AcadBldg33AP6 AcadBldg33AP6 (Info): Deauthenticating 003065b40dda, reason "Inactivity"
+992435520 Jun 13 08:32:00 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0030651f7707 Authenticated
+992435520 Jun 13 08:32:00 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0030651f7707 Associated
+992435622 Jun 13 08:33:42 ResBldg43AP2 ResBldg43AP2 (Info): Deauthenticating 00306534d07b, reason "Inactivity"
+992435641 Jun 13 08:34:01 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Authenticated
+992435641 Jun 13 08:34:01 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Associated
+992435643 Jun 13 08:34:03 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Must Authenticate Before Associating"
+992435643 Jun 13 08:34:03 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992435643 Jun 13 08:34:03 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992435754 Jun 13 08:35:54 LibBldg2AP7 LibBldg2AP7 (Info): Deauthenticating 0030655b9345, reason "Inactivity"
+992435767 Jun 13 08:36:07 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Authenticated
+992435767 Jun 13 08:36:07 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Associated
+992435907 Jun 13 08:38:27 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992435909 Jun 13 08:38:29 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992435909 Jun 13 08:38:29 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992436159 Jun 13 08:42:39 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Authenticated
+992436159 Jun 13 08:42:39 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Associated
+992436160 Jun 13 08:42:40 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Authenticated
+992436160 Jun 13 08:42:40 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Associated
+992436162 Jun 13 08:42:42 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Authenticated
+992436162 Jun 13 08:42:42 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Associated
+992436175 Jun 13 08:42:55 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Authenticated
+992436175 Jun 13 08:42:55 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030650b29a5 Associated
+992436750 Jun 13 08:52:30 AcadBldg18AP2 AcadBldg18AP2 (Info): Deauthenticating 004096d922b7, reason "Inactivity"
+992437194 Jun 13 08:59:54 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 0040960a7573, reason "Inactivity"
+992437360 Jun 13 09:02:40 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 Authenticated
+992437360 Jun 13 09:02:40 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 Associated
+992437462 Jun 13 09:04:22 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992437465 Jun 13 09:04:25 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992437466 Jun 13 09:04:26 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992437466 Jun 13 09:04:26 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Associated
+992437735 Jun 13 09:08:55 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992437736 Jun 13 09:08:56 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992437736 Jun 13 09:08:56 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992437834 Jun 13 09:10:34 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Must Authenticate Before Associating"
+992437834 Jun 13 09:10:34 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Authenticated
+992437834 Jun 13 09:10:34 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992437836 Jun 13 09:10:36 LibBldg3AP2 LibBldg3AP2 (Info): Station 0040961b931b Authenticated
+992437836 Jun 13 09:10:36 LibBldg3AP2 LibBldg3AP2 (Info): Station 0040961b931b Associated
+992437847 Jun 13 09:10:47 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992437964 Jun 13 09:12:44 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 004096a6153a, reason "Inactivity"
+992438011 Jun 13 09:13:31 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Authenticated
+992438011 Jun 13 09:13:31 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Associated
+992438126 Jun 13 09:15:26 LibBldg2AP7 LibBldg2AP7 (Info): Deauthenticating 0030650b29a5, reason "Inactivity"
+992438163 Jun 13 09:16:03 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 003065e9aecb Authenticated
+992438163 Jun 13 09:16:03 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 003065e9aecb Associated
+992438943 Jun 13 09:29:03 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992438943 Jun 13 09:29:03 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992438982 Jun 13 09:29:42 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992438982 Jun 13 09:29:42 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992438983 Jun 13 09:29:43 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992438983 Jun 13 09:29:43 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992439089 Jun 13 09:31:29 AdmBldg14AP2 AdmBldg14AP2 (Info): Deauthenticating 0040966b9e99, reason "Inactivity"
+992439562 Jun 13 09:39:22 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992439563 Jun 13 09:39:23 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992439563 Jun 13 09:39:23 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992439567 Jun 13 09:39:27 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992439655 Jun 13 09:40:55 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992439668 Jun 13 09:41:08 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992439669 Jun 13 09:41:09 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Authenticated
+992439669 Jun 13 09:41:09 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Associated
+992439674 Jun 13 09:41:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Must Authenticate Before Associating"
+992439674 Jun 13 09:41:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992439674 Jun 13 09:41:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992439727 Jun 13 09:42:07 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992439787 Jun 13 09:43:07 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992439883 Jun 13 09:44:43 ResBldg3AP3 ResBldg3AP3 (Info): Deauthenticating 0030658643c4, reason "Inactivity"
+992439907 Jun 13 09:45:07 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992439984 Jun 13 09:46:24 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992439987 Jun 13 09:46:27 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992440083 Jun 13 09:48:03 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992440103 Jun 13 09:48:23 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992440122 Jun 13 09:48:42 AcadBldg23AP5 AcadBldg23AP5 (Info): Station 00306554ad08 Authenticated
+992440122 Jun 13 09:48:42 AcadBldg23AP5 AcadBldg23AP5 (Info): Station 00306554ad08 Associated
+992440123 Jun 13 09:48:43 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992440208 Jun 13 09:50:08 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992440296 Jun 13 09:51:36 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 00306512119d Authenticated
+992440296 Jun 13 09:51:36 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 00306512119d Associated
+992440359 Jun 13 09:52:39 AcadBldg10AP4 AcadBldg10AP4 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992440600 Jun 13 09:56:40 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Authenticated
+992440600 Jun 13 09:56:40 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Associated
+992440729 Jun 13 09:58:49 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992440783 Jun 13 09:59:43 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 003065ff9562 Authenticated
+992440783 Jun 13 09:59:43 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 003065ff9562 Associated
+992441026 Jun 13 10:03:46 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992441026 Jun 13 10:03:46 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992441064 Jun 13 10:04:24 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 Authenticated
+992441064 Jun 13 10:04:24 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 Associated
+992441069 Jun 13 10:04:29 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 003065fe6512 Authenticated
+992441069 Jun 13 10:04:29 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 003065fe6512 Associated
+992441072 Jun 13 10:04:32 AcadBldg10AP7 AcadBldg10AP7 (Info): Deauthenticating 00306572a9d8, reason "Must Authenticate Before Associating"
+992441072 Jun 13 10:04:32 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Authenticated
+992441072 Jun 13 10:04:32 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Reassociated
+992441072 Jun 13 10:04:32 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 roamed
+992441185 Jun 13 10:06:25 AcadBldg23AP5 AcadBldg23AP5 (Info): Station 00306554ad08 Authenticated
+992441185 Jun 13 10:06:25 AcadBldg23AP5 AcadBldg23AP5 (Info): Station 00306554ad08 Associated
+992441293 Jun 13 10:08:13 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992441295 Jun 13 10:08:15 AcadBldg16AP2 AcadBldg16AP2 (Info): Disassociating 00409696d938, reason "Not Associated"
+992441489 Jun 13 10:11:29 ResBldg3AP5 ResBldg3AP5 (Info): Deauthenticating 003065ed4f04, reason "Inactivity"
+992441491 Jun 13 10:11:31 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992441495 Jun 13 10:11:35 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992441496 Jun 13 10:11:36 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992441496 Jun 13 10:11:36 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Associated
+992441504 Jun 13 10:11:44 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 003065a68243 Authenticated
+992441504 Jun 13 10:11:44 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 003065a68243 Associated
+992441700 Jun 13 10:15:00 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Authenticated
+992441700 Jun 13 10:15:00 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Associated
+992441837 Jun 13 10:17:17 ResBldg3AP5 ResBldg3AP5 (Info): Station 003065ed4f04 Authenticated
+992441837 Jun 13 10:17:17 ResBldg3AP5 ResBldg3AP5 (Info): Station 003065ed4f04 Associated
+992441872 Jun 13 10:17:52 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Authenticated
+992441872 Jun 13 10:17:52 AcadBldg35AP1 AcadBldg35AP1 (Info): Station 0040962377ec Associated
+992442419 Jun 13 10:26:59 AcadBldg18AP4 AcadBldg18AP4 (Info): Deauthenticating 00022dfe1f69, reason "Must Authenticate Before Associating"
+992442419 Jun 13 10:26:59 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 Authenticated
+992442419 Jun 13 10:26:59 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 Reassociated
+992442419 Jun 13 10:26:59 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 roamed
+992442419 Jun 13 10:26:59 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 roamed
+992442580 Jun 13 10:29:40 ResBldg22AP1 ResBldg22AP1 (Info): Station 00409607afd1 Authenticated
+992442580 Jun 13 10:29:40 ResBldg22AP1 ResBldg22AP1 (Info): Station 00409607afd1 Associated
+992442580 Jun 13 10:29:40 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 roamed
+992442581 Jun 13 10:29:41 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992442581 Jun 13 10:29:41 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992442581 Jun 13 10:29:41 ResBldg22AP1 ResBldg22AP1 (Info): Station 00409607afd1 roamed
+992442610 Jun 13 10:30:10 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 003065ff9562, reason "Inactivity"
+992442830 Jun 13 10:33:50 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992442830 Jun 13 10:33:50 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992442890 Jun 13 10:34:50 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 003065fe6512, reason "Inactivity"
+992442950 Jun 13 10:35:50 AcadBldg22AP1 AcadBldg22AP1 (Info): Deauthenticating 00306512119d, reason "Inactivity"
+992443151 Jun 13 10:39:11 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 00306512119d Authenticated
+992443151 Jun 13 10:39:11 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 00306512119d Associated
+992443309 Jun 13 10:41:49 SocBldg1AP1 SocBldg1AP1 (Info): Station 003065fe6512 Authenticated
+992443309 Jun 13 10:41:49 SocBldg1AP1 SocBldg1AP1 (Info): Station 003065fe6512 Associated
+992443317 Jun 13 10:41:57 AcadBldg19AP3 AcadBldg19AP3 (Info): Deauthenticating 0030654806d7, reason "Must Authenticate Before Associating"
+992443317 Jun 13 10:41:57 AcadBldg19AP3 AcadBldg19AP3 (Info): Station 0030654806d7 Authenticated
+992443317 Jun 13 10:41:57 AcadBldg19AP3 AcadBldg19AP3 (Info): Station 0030654806d7 Reassociated
+992443318 Jun 13 10:41:58 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992443319 Jun 13 10:41:59 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Authenticated
+992443319 Jun 13 10:41:59 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Associated
+992443321 Jun 13 10:42:01 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 0040964a65e6 Authenticated
+992443321 Jun 13 10:42:01 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 0040964a65e6 Associated
+992443325 Jun 13 10:42:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Must Authenticate Before Associating"
+992443325 Jun 13 10:42:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992443325 Jun 13 10:42:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992443332 Jun 13 10:42:12 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 003065a68243, reason "Inactivity"
+992443351 Jun 13 10:42:31 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992443351 Jun 13 10:42:31 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992443388 Jun 13 10:43:08 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992443715 Jun 13 10:48:35 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 00306512119d Authenticated
+992443715 Jun 13 10:48:35 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 00306512119d Associated
+992443732 Jun 13 10:48:52 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 003065265e15 Authenticated
+992443732 Jun 13 10:48:52 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 003065265e15 Associated
+992443883 Jun 13 10:51:23 ResBldg13AP2 ResBldg13AP2 (Info): Deauthenticating 00022d458c14, reason "Inactivity"
+992443884 Jun 13 10:51:24 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Authenticated
+992443884 Jun 13 10:51:24 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Associated
+992443915 Jun 13 10:51:55 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be Authenticated
+992443915 Jun 13 10:51:55 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be Associated
+992444010 Jun 13 10:53:30 SocBldg1AP5 SocBldg1AP5 (Info): Station 003065d8efb0 Authenticated
+992444010 Jun 13 10:53:30 SocBldg1AP5 SocBldg1AP5 (Info): Station 003065d8efb0 Associated
+992444059 Jun 13 10:54:19 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Authenticated
+992444059 Jun 13 10:54:19 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Associated
+992444114 Jun 13 10:55:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992444115 Jun 13 10:55:15 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992444115 Jun 13 10:55:15 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992444123 Jun 13 10:55:23 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 00601d9bf252, reason "Inactivity"
+992444163 Jun 13 10:56:03 AcadBldg18AP3 AcadBldg18AP3 (Info): Deauthenticating 0030651f7707, reason "Must Authenticate Before Associating"
+992444163 Jun 13 10:56:03 AcadBldg18AP3 AcadBldg18AP3 (Info): Station 0030651f7707 Authenticated
+992444163 Jun 13 10:56:03 AcadBldg18AP3 AcadBldg18AP3 (Info): Station 0030651f7707 Reassociated
+992444163 Jun 13 10:56:03 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0030651f7707 roamed
+992444163 Jun 13 10:56:03 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0030651f7707 roamed
+992444394 Jun 13 10:59:54 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992444406 Jun 13 11:00:06 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992444427 Jun 13 11:00:27 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992444427 Jun 13 11:00:27 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992444427 Jun 13 11:00:27 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992444427 Jun 13 11:00:27 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992444466 Jun 13 11:01:06 ResBldg21AP2 ResBldg21AP2 (Info): Station 0030658643c4 Authenticated
+992444466 Jun 13 11:01:06 ResBldg21AP2 ResBldg21AP2 (Info): Station 0030658643c4 Associated
+992444507 Jun 13 11:01:47 AcadBldg10AP18 AcadBldg10AP18 (Info): Deauthenticating 00306572a9d8, reason "Must Authenticate Before Associating"
+992444507 Jun 13 11:01:47 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Authenticated
+992444507 Jun 13 11:01:47 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Reassociated
+992444507 Jun 13 11:01:47 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 roamed
+992444653 Jun 13 11:04:13 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992444654 Jun 13 11:04:14 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992444654 Jun 13 11:04:14 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992445063 Jun 13 11:11:03 ResBldg21AP2 ResBldg21AP2 (Info): Station 0030658643c4 Authenticated
+992445063 Jun 13 11:11:03 ResBldg21AP2 ResBldg21AP2 (Info): Station 0030658643c4 Associated
+992445203 Jun 13 11:13:23 AcadBldg16AP2 AcadBldg16AP2 (Info): Deauthenticating 00409696d938, reason "Inactivity"
+992445246 Jun 13 11:14:06 AcadBldg1AP4 AcadBldg1AP4 (Info): Deauthenticating 00409622cb2b, reason "Inactivity"
+992445316 Jun 13 11:15:16 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992445316 Jun 13 11:15:16 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992445481 Jun 13 11:18:01 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992445509 Jun 13 11:18:29 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992445561 Jun 13 11:19:21 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 003065265e15, reason "Inactivity"
+992445589 Jun 13 11:19:49 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 Reassociated
+992445589 Jun 13 11:19:49 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 roamed
+992445606 Jun 13 11:20:06 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Reassociated
+992445606 Jun 13 11:20:06 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 roamed
+992445708 Jun 13 11:21:48 ResBldg13AP2 ResBldg13AP2 (Info): Deauthenticating 00022d458c14, reason "Inactivity"
+992445709 Jun 13 11:21:49 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Authenticated
+992445709 Jun 13 11:21:49 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Associated
+992445856 Jun 13 11:24:16 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992445856 Jun 13 11:24:16 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992445978 Jun 13 11:26:18 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065e0817f Authenticated
+992445978 Jun 13 11:26:18 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065e0817f Associated
+992446166 Jun 13 11:29:26 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Authenticated
+992446166 Jun 13 11:29:26 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Associated
+992446168 Jun 13 11:29:28 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Reassociated
+992446173 Jun 13 11:29:33 ResBldg3AP5 ResBldg3AP5 (Info): Deauthenticating 0030658643c4, reason "Inactivity"
+992446236 Jun 13 11:30:36 LibBldg3AP3 LibBldg3AP3 (Info): Station 0030651794b6 Authenticated
+992446236 Jun 13 11:30:36 LibBldg3AP3 LibBldg3AP3 (Info): Station 0030651794b6 Associated
+992446240 Jun 13 11:30:40 AcadBldg18AP3 AcadBldg18AP3 (Info): Station 0030655790c7 Authenticated
+992446240 Jun 13 11:30:40 AcadBldg18AP3 AcadBldg18AP3 (Info): Station 0030655790c7 Associated
+992446284 Jun 13 11:31:24 AdmBldg6AP2 AdmBldg6AP2 (Info): Deauthenticating 0030651794b6, reason "Must Authenticate Before Associating"
+992446284 Jun 13 11:31:24 AdmBldg6AP2 AdmBldg6AP2 (Info): Station 0030651794b6 Authenticated
+992446284 Jun 13 11:31:24 AdmBldg6AP2 AdmBldg6AP2 (Info): Station 0030651794b6 Reassociated
+992446292 Jun 13 11:31:32 LibBldg3AP3 LibBldg3AP3 (Info): Station 0030651794b6 Reassociated
+992446295 Jun 13 11:31:35 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Authenticated
+992446295 Jun 13 11:31:35 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Associated
+992446295 Jun 13 11:31:35 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 roamed
+992446299 Jun 13 11:31:39 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Reassociated
+992446299 Jun 13 11:31:39 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 roamed
+992446921 Jun 13 11:42:01 AcadBldg22AP1 AcadBldg22AP1 (Info): Deauthenticating 00306512119d, reason "Inactivity"
+992447031 Jun 13 11:43:51 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065e0817f Authenticated
+992447031 Jun 13 11:43:51 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065e0817f Associated
+992447137 Jun 13 11:45:37 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992447138 Jun 13 11:45:38 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992447138 Jun 13 11:45:38 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992447303 Jun 13 11:48:23 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992447331 Jun 13 11:48:51 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992447332 Jun 13 11:48:52 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992447332 Jun 13 11:48:52 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Associated
+992447464 Jun 13 11:51:04 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 00409607afd1, reason "Inactivity"
+992447685 Jun 13 11:54:45 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653daa8c Authenticated
+992447685 Jun 13 11:54:45 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653daa8c Associated
+992447687 Jun 13 11:54:47 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Reassociated
+992447687 Jun 13 11:54:47 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 roamed
+992447687 Jun 13 11:54:47 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 roamed
+992447763 Jun 13 11:56:03 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653daa8c Authenticated
+992447763 Jun 13 11:56:03 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653daa8c Associated
+992447765 Jun 13 11:56:05 AcadBldg19AP3 AcadBldg19AP3 (Info): Station 0030654806d7 roamed
+992447765 Jun 13 11:56:05 AcadBldg19AP3 AcadBldg19AP3 (Info): Station 0030654806d7 roamed
+992447971 Jun 13 11:59:31 AdmBldg6AP2 AdmBldg6AP2 (Info): Station 0030651794b6 roamed
+992447971 Jun 13 11:59:31 AdmBldg6AP2 AdmBldg6AP2 (Info): Station 0030651794b6 roamed
+992447987 Jun 13 11:59:47 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992447995 Jun 13 11:59:55 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992448005 Jun 13 12:00:05 SocBldg5AP3 SocBldg5AP3 (Info): Station 003065fe6512 Authenticated
+992448005 Jun 13 12:00:05 SocBldg5AP3 SocBldg5AP3 (Info): Station 003065fe6512 Associated
+992448006 Jun 13 12:00:06 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448012 Jun 13 12:00:12 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448018 Jun 13 12:00:18 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448019 Jun 13 12:00:19 ResBldg41AP2 ResBldg41AP2 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448020 Jun 13 12:00:20 SocBldg4AP10 SocBldg4AP10 (Info): Station 004096b7e559 Authenticated
+992448034 Jun 13 12:00:34 ResBldg21AP3 ResBldg21AP3 (Info): Deauthenticating 0030658643c4, reason "Must Authenticate Before Associating"
+992448034 Jun 13 12:00:34 ResBldg21AP3 ResBldg21AP3 (Info): Station 0030658643c4 Authenticated
+992448034 Jun 13 12:00:34 ResBldg21AP3 ResBldg21AP3 (Info): Station 0030658643c4 Reassociated
+992448034 Jun 13 12:00:34 ResBldg21AP2 ResBldg21AP2 (Info): Station 0030658643c4 roamed
+992448034 Jun 13 12:00:34 ResBldg21AP2 ResBldg21AP2 (Info): Station 0030658643c4 roamed
+992448035 Jun 13 12:00:35 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448036 Jun 13 12:00:36 ResBldg41AP1 ResBldg41AP1 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448070 Jun 13 12:01:10 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448075 Jun 13 12:01:15 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448087 Jun 13 12:01:27 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448088 Jun 13 12:01:28 SocBldg4AP10 SocBldg4AP10 (Info): Station 004096b7e559 Authenticated
+992448118 Jun 13 12:01:58 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448123 Jun 13 12:02:03 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448134 Jun 13 12:02:14 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448134 Jun 13 12:02:14 ResBldg41AP1 ResBldg41AP1 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448136 Jun 13 12:02:16 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448141 Jun 13 12:02:21 SocBldg4AP10 SocBldg4AP10 (Info): Station 004096b7e559 Authenticated
+992448171 Jun 13 12:02:51 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448176 Jun 13 12:02:56 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448187 Jun 13 12:03:07 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448187 Jun 13 12:03:07 ResBldg41AP1 ResBldg41AP1 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448189 Jun 13 12:03:09 SocBldg4AP10 SocBldg4AP10 (Info): Station 004096b7e559 Authenticated
+992448194 Jun 13 12:03:14 AcadBldg26AP5 AcadBldg26AP5 (Info): Deauthenticating 0030651794b6, reason "Must Authenticate Before Associating"
+992448194 Jun 13 12:03:14 AcadBldg26AP5 AcadBldg26AP5 (Info): Station 0030651794b6 Authenticated
+992448194 Jun 13 12:03:14 AcadBldg26AP5 AcadBldg26AP5 (Info): Station 0030651794b6 Reassociated
+992448203 Jun 13 12:03:23 AcadBldg14AP1 AcadBldg14AP1 (Info): Deauthenticating 0030651794b6, reason "Must Authenticate Before Associating"
+992448203 Jun 13 12:03:23 AcadBldg14AP1 AcadBldg14AP1 (Info): Station 0030651794b6 Authenticated
+992448203 Jun 13 12:03:23 AcadBldg14AP1 AcadBldg14AP1 (Info): Station 0030651794b6 Reassociated
+992448219 Jun 13 12:03:39 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448224 Jun 13 12:03:44 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448229 Jun 13 12:03:49 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448234 Jun 13 12:03:54 ResBldg41AP2 ResBldg41AP2 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448237 Jun 13 12:03:57 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448239 Jun 13 12:03:59 ResBldg41AP1 ResBldg41AP1 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448269 Jun 13 12:04:29 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448274 Jun 13 12:04:34 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448280 Jun 13 12:04:40 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448285 Jun 13 12:04:45 SocBldg4AP10 SocBldg4AP10 (Info): Station 004096b7e559 Authenticated
+992448285 Jun 13 12:04:45 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448309 Jun 13 12:05:09 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Authenticated
+992448309 Jun 13 12:05:09 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Associated
+992448311 Jun 13 12:05:11 AcadBldg18AP3 AcadBldg18AP3 (Info): Deauthenticating 0030655790c7, reason "Inactivity"
+992448315 Jun 13 12:05:15 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448316 Jun 13 12:05:16 AcadBldg10AP7 AcadBldg10AP7 (Info): Deauthenticating 00306572a9d8, reason "Inactivity"
+992448320 Jun 13 12:05:20 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448323 Jun 13 12:05:23 SocBldg4AP13 SocBldg4AP13 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448323 Jun 13 12:05:23 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448327 Jun 13 12:05:27 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448358 Jun 13 12:05:58 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448363 Jun 13 12:06:03 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448368 Jun 13 12:06:08 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448373 Jun 13 12:06:13 ResBldg41AP2 ResBldg41AP2 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448373 Jun 13 12:06:13 SocBldg4AP10 SocBldg4AP10 (Info): Station 004096b7e559 Authenticated
+992448373 Jun 13 12:06:13 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448374 Jun 13 12:06:14 ResBldg41AP1 ResBldg41AP1 (Info): Disassociating 004096b7e559, reason "Not Associated"
+992448404 Jun 13 12:06:44 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448409 Jun 13 12:06:49 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448415 Jun 13 12:06:55 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448415 Jun 13 12:06:55 ResBldg41AP1 ResBldg41AP1 (Info): Station 004096b7e559 Authenticated
+992448446 Jun 13 12:07:26 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448452 Jun 13 12:07:32 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448457 Jun 13 12:07:37 ResBldg41AP2 ResBldg41AP2 (Info): Station 004096b7e559 Authenticated
+992448487 Jun 13 12:08:07 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 004096b7e559 Authenticated
+992448492 Jun 13 12:08:12 SocBldg4AP13 SocBldg4AP13 (Info): Station 004096b7e559 Authenticated
+992448505 Jun 13 12:08:25 ResBldg41AP4 ResBldg41AP4 (Info): Station 004096b7e559 Authenticated
+992448853 Jun 13 12:14:13 ResBldg22AP1 ResBldg22AP1 (Info): Deauthenticating 003065e0817f, reason "Inactivity"
+992448876 Jun 13 12:14:36 SocBldg1AP1 SocBldg1AP1 (Info): Deauthenticating 003065fe6512, reason "Inactivity"
+992448922 Jun 13 12:15:22 AcadBldg18AP2 AcadBldg18AP2 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992448960 Jun 13 12:16:00 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992448961 Jun 13 12:16:01 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992448961 Jun 13 12:16:01 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992449057 Jun 13 12:17:37 ResBldg100AP1 ResBldg100AP1 (Info): Station 004096011ce9 Authenticated
+992449057 Jun 13 12:17:37 ResBldg100AP1 ResBldg100AP1 (Info): Station 004096011ce9 Associated
+992449133 Jun 13 12:18:53 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992449153 Jun 13 12:19:13 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992449155 Jun 13 12:19:15 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992449155 Jun 13 12:19:15 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Associated
+992449251 Jun 13 12:20:51 SocBldg5AP3 SocBldg5AP3 (Info): Station 003065fe6512 Authenticated
+992449251 Jun 13 12:20:51 SocBldg5AP3 SocBldg5AP3 (Info): Station 003065fe6512 Associated
+992449253 Jun 13 12:20:53 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992449542 Jun 13 12:25:42 LibBldg3AP3 LibBldg3AP3 (Info): Deauthenticating 0030651794b6, reason "Inactivity"
+992449544 Jun 13 12:25:44 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Authenticated
+992449544 Jun 13 12:25:44 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Associated
+992449635 Jun 13 12:27:15 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Authenticated
+992449635 Jun 13 12:27:15 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Associated
+992449642 Jun 13 12:27:22 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Authenticated
+992449642 Jun 13 12:27:22 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Associated
+992449995 Jun 13 12:33:15 AcadBldg26AP5 AcadBldg26AP5 (Info): Deauthenticating 0030651794b6, reason "Inactivity"
+992450039 Jun 13 12:33:59 AcadBldg14AP1 AcadBldg14AP1 (Info): Deauthenticating 0030651794b6, reason "Inactivity"
+992450194 Jun 13 12:36:34 SocBldg4AP10 SocBldg4AP10 (Info): Deauthenticating 004096b7e559, reason "Inactivity"
+992450236 Jun 13 12:37:16 ResBldg41AP1 ResBldg41AP1 (Info): Deauthenticating 004096b7e559, reason "Inactivity"
+992450278 Jun 13 12:37:58 ResBldg41AP2 ResBldg41AP2 (Info): Deauthenticating 004096b7e559, reason "Inactivity"
+992450326 Jun 13 12:38:46 ResBldg41AP4 ResBldg41AP4 (Info): Deauthenticating 004096b7e559, reason "Inactivity"
+992450408 Jun 13 12:40:08 ResBldg21AP2 ResBldg21AP2 (Info): Station 003065ed4f04 Authenticated
+992450408 Jun 13 12:40:08 ResBldg21AP2 ResBldg21AP2 (Info): Station 003065ed4f04 Associated
+992450415 Jun 13 12:40:15 AcadBldg29AP1 AcadBldg29AP1 (Info): Deauthenticating 004096b7e559, reason "Inactivity"
+992450432 Jun 13 12:40:32 LibBldg1AP5 LibBldg1AP5 (Info): Deauthenticating 0030653eff99, reason "Inactivity"
+992450450 Jun 13 12:40:50 SocBldg4AP13 SocBldg4AP13 (Info): Deauthenticating 004096b7e559, reason "Inactivity"
+992450453 Jun 13 12:40:53 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992450453 Jun 13 12:40:53 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992450576 Jun 13 12:42:56 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Authenticated
+992450576 Jun 13 12:42:56 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Associated
+992450650 Jun 13 12:44:10 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Authenticated
+992450650 Jun 13 12:44:10 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Associated
+992450660 Jun 13 12:44:20 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992450660 Jun 13 12:44:20 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992450695 Jun 13 12:44:55 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992450695 Jun 13 12:44:55 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992450695 Jun 13 12:44:55 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992450695 Jun 13 12:44:55 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992450783 Jun 13 12:46:23 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992450784 Jun 13 12:46:24 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992450784 Jun 13 12:46:24 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992450856 Jun 13 12:47:36 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Authenticated
+992450856 Jun 13 12:47:36 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Associated
+992450856 Jun 13 12:47:36 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992450856 Jun 13 12:47:36 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992450954 Jun 13 12:49:14 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Authenticated
+992450954 Jun 13 12:49:14 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Associated
+992450976 Jun 13 12:49:36 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992450977 Jun 13 12:49:37 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992450977 Jun 13 12:49:37 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Associated
+992451021 Jun 13 12:50:21 ResBldg43AP2 ResBldg43AP2 (Info): Deauthenticating 00306534d07b, reason "Inactivity"
+992451047 Jun 13 12:50:47 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Authenticated
+992451047 Jun 13 12:50:47 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Associated
+992451058 Jun 13 12:50:58 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992451058 Jun 13 12:50:58 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992451093 Jun 13 12:51:33 AcadBldg16AP5 AcadBldg16AP5 (Info): Deauthenticating 00409696d938, reason "Inactivity"
+992451116 Jun 13 12:51:56 AcadBldg22AP2 AcadBldg22AP2 (Info): Deauthenticating 0030655fe54b, reason "Must Authenticate Before Associating"
+992451116 Jun 13 12:51:56 AcadBldg22AP2 AcadBldg22AP2 (Info): Station 0030655fe54b Authenticated
+992451116 Jun 13 12:51:56 AcadBldg22AP2 AcadBldg22AP2 (Info): Station 0030655fe54b Reassociated
+992451241 Jun 13 12:54:01 ResBldg89AP1 ResBldg89AP1 (Info): Station 003065672efa Authenticated
+992451241 Jun 13 12:54:01 ResBldg89AP1 ResBldg89AP1 (Info): Station 003065672efa Associated
+992451375 Jun 13 12:56:15 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Authenticated
+992451375 Jun 13 12:56:15 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Associated
+992451567 Jun 13 12:59:27 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992451569 Jun 13 12:59:29 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992451902 Jun 13 13:05:02 SocBldg5AP3 SocBldg5AP3 (Info): Deauthenticating 003065fe6512, reason "Inactivity"
+992451989 Jun 13 13:06:29 LibBldg2AP7 LibBldg2AP7 (Info): Station 003065e2d2b5 Authenticated
+992451989 Jun 13 13:06:29 LibBldg2AP7 LibBldg2AP7 (Info): Station 003065e2d2b5 Associated
+992452011 Jun 13 13:06:51 ResBldg3AP5 ResBldg3AP5 (Info): Deauthenticating 003065ed4f04, reason "Inactivity"
+992452092 Jun 13 13:08:12 AcadBldg26AP2 AcadBldg26AP2 (Info): Station 0030651794b6 Authenticated
+992452092 Jun 13 13:08:12 AcadBldg26AP2 AcadBldg26AP2 (Info): Station 0030651794b6 Associated
+992452092 Jun 13 13:08:12 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 00601d92e5c3 Authenticated
+992452092 Jun 13 13:08:12 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 00601d92e5c3 Associated
+992452134 Jun 13 13:08:54 AcadBldg14AP1 AcadBldg14AP1 (Info): Deauthenticating 0030651794b6, reason "Must Authenticate Before Associating"
+992452134 Jun 13 13:08:54 AcadBldg14AP1 AcadBldg14AP1 (Info): Station 0030651794b6 Authenticated
+992452134 Jun 13 13:08:54 AcadBldg14AP1 AcadBldg14AP1 (Info): Station 0030651794b6 Reassociated
+992452150 Jun 13 13:09:10 ResBldg21AP3 ResBldg21AP3 (Info): Deauthenticating 0030658643c4, reason "Inactivity"
+992452254 Jun 13 13:10:54 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992452254 Jun 13 13:10:54 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992452317 Jun 13 13:11:57 ResBldg3AP1 ResBldg3AP1 (Info): Deauthenticating 0030658643c4, reason "Must Authenticate Before Associating"
+992452317 Jun 13 13:11:57 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Authenticated
+992452317 Jun 13 13:11:57 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992452317 Jun 13 13:11:57 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992452317 Jun 13 13:11:57 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992452326 Jun 13 13:12:06 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992452326 Jun 13 13:12:06 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992452446 Jun 13 13:14:06 AcadBldg10AP16 AcadBldg10AP16 (Info): Station 003065b2c127 Authenticated
+992452446 Jun 13 13:14:06 AcadBldg10AP16 AcadBldg10AP16 (Info): Station 003065b2c127 Associated
+992452575 Jun 13 13:16:15 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Must Authenticate Before Associating"
+992452575 Jun 13 13:16:15 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Authenticated
+992452575 Jun 13 13:16:15 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992452576 Jun 13 13:16:16 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0030653c8114 Authenticated
+992452576 Jun 13 13:16:16 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0030653c8114 Associated
+992452577 Jun 13 13:16:17 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0030653c8114 Authenticated
+992452577 Jun 13 13:16:17 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0030653c8114 Associated
+992452578 Jun 13 13:16:18 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0030653c8114 Authenticated
+992452578 Jun 13 13:16:18 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0030653c8114 Associated
+992452584 Jun 13 13:16:24 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992452605 Jun 13 13:16:45 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992452607 Jun 13 13:16:47 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992452607 Jun 13 13:16:47 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992452931 Jun 13 13:22:11 AcadBldg22AP2 AcadBldg22AP2 (Info): Deauthenticating 0030655fe54b, reason "Inactivity"
+992453073 Jun 13 13:24:33 ResBldg3AP4 ResBldg3AP4 (Info): Deauthenticating 0030658643c4, reason "Must Authenticate Before Associating"
+992453074 Jun 13 13:24:34 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Authenticated
+992453074 Jun 13 13:24:34 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Reassociated
+992453074 Jun 13 13:24:34 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992453074 Jun 13 13:24:34 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992453144 Jun 13 13:25:44 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992453144 Jun 13 13:25:44 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992453144 Jun 13 13:25:44 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992453208 Jun 13 13:26:48 ResBldg89AP1 ResBldg89AP1 (Info): Deauthenticating 003065672efa, reason "Inactivity"
+992453209 Jun 13 13:26:49 ResBldg89AP1 ResBldg89AP1 (Info): Station 003065672efa Authenticated
+992453209 Jun 13 13:26:49 ResBldg89AP1 ResBldg89AP1 (Info): Station 003065672efa Associated
+992453222 Jun 13 13:27:02 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 004096a6153a, reason "Inactivity"
+992453282 Jun 13 13:28:02 ResBldg21AP2 ResBldg21AP2 (Info): Station 003065ed4f04 Authenticated
+992453282 Jun 13 13:28:02 ResBldg21AP2 ResBldg21AP2 (Info): Station 003065ed4f04 Associated
+992453316 Jun 13 13:28:36 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992453316 Jun 13 13:28:36 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992453373 Jun 13 13:29:33 AcadBldg16AP5 AcadBldg16AP5 (Info): Deauthenticating 00409696d938, reason "Inactivity"
+992453418 Jun 13 13:30:18 LibBldg1AP12 LibBldg1AP12 (Info): Station 0030653813fd Authenticated
+992453418 Jun 13 13:30:18 LibBldg1AP12 LibBldg1AP12 (Info): Station 0030653813fd Associated
+992453450 Jun 13 13:30:50 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 Authenticated
+992453450 Jun 13 13:30:50 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 Associated
+992453455 Jun 13 13:30:55 AcadBldg10AP18 AcadBldg10AP18 (Info): Deauthenticating 00306572a9d8, reason "Must Authenticate Before Associating"
+992453455 Jun 13 13:30:55 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Authenticated
+992453455 Jun 13 13:30:55 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Reassociated
+992453455 Jun 13 13:30:55 AcadBldg10AP1 AcadBldg10AP1 (Info): Station 00306572a9d8 roamed
+992453618 Jun 13 13:33:38 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 003065b2c127 Authenticated
+992453618 Jun 13 13:33:38 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 003065b2c127 Associated
+992453618 Jun 13 13:33:38 AcadBldg10AP16 AcadBldg10AP16 (Info): Station 003065b2c127 roamed
+992453631 Jun 13 13:33:51 AcadBldg16AP2 AcadBldg16AP2 (Info): Deauthenticating 00409696d938, reason "Inactivity"
+992453671 Jun 13 13:34:31 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992453678 Jun 13 13:34:38 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992453685 Jun 13 13:34:45 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Authenticated
+992453685 Jun 13 13:34:45 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Associated
+992453737 Jun 13 13:35:37 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992453737 Jun 13 13:35:37 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992453845 Jun 13 13:37:25 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Authenticated
+992453845 Jun 13 13:37:25 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Associated
+992453848 Jun 13 13:37:28 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Authenticated
+992453848 Jun 13 13:37:28 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Associated
+992453900 Jun 13 13:38:20 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 00409607afd1, reason "Inactivity"
+992453907 Jun 13 13:38:27 AcadBldg26AP2 AcadBldg26AP2 (Info): Deauthenticating 0030651794b6, reason "Inactivity"
+992453953 Jun 13 13:39:13 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 004096f20d21 Authenticated
+992453953 Jun 13 13:39:13 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 004096f20d21 Associated
+992454005 Jun 13 13:40:05 AcadBldg14AP1 AcadBldg14AP1 (Info): Deauthenticating 0030651794b6, reason "Inactivity"
+992454161 Jun 13 13:42:41 AcadBldg10AP4 AcadBldg10AP4 (Info): Deauthenticating 00601d92e5c3, reason "Inactivity"
+992454327 Jun 13 13:45:27 LibBldg2AP7 LibBldg2AP7 (Info): Deauthenticating 003065e2d2b5, reason "Inactivity"
+992454384 Jun 13 13:46:24 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992454384 Jun 13 13:46:24 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992454389 Jun 13 13:46:29 AcadBldg10AP4 AcadBldg10AP4 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992454428 Jun 13 13:47:08 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992454429 Jun 13 13:47:09 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992454429 Jun 13 13:47:09 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992454468 Jun 13 13:47:48 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992454468 Jun 13 13:47:48 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992454508 Jun 13 13:48:28 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 Authenticated
+992454508 Jun 13 13:48:28 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 Associated
+992454508 Jun 13 13:48:28 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 roamed
+992454508 Jun 13 13:48:28 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 roamed
+992454682 Jun 13 13:51:22 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992454689 Jun 13 13:51:29 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992454702 Jun 13 13:51:42 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992454710 Jun 13 13:51:50 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992454722 Jun 13 13:52:02 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992454776 Jun 13 13:52:56 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00022db6cc78 Authenticated
+992454776 Jun 13 13:52:56 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00022db6cc78 Associated
+992454782 Jun 13 13:53:02 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992454822 Jun 13 13:53:42 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992454842 Jun 13 13:54:02 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992454843 Jun 13 13:54:03 AcadBldg16AP5 AcadBldg16AP5 (Info): Disassociating 00409696d938, reason "Not Associated"
+992454847 Jun 13 13:54:07 LibBldg1AP5 LibBldg1AP5 (Info): Deauthenticating 0030653daa8c, reason "Inactivity"
+992454949 Jun 13 13:55:49 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992455025 Jun 13 13:57:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992455025 Jun 13 13:57:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992455347 Jun 13 14:02:27 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992455435 Jun 13 14:03:55 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992455436 Jun 13 14:03:56 AcadBldg16AP5 AcadBldg16AP5 (Info): Disassociating 00409696d938, reason "Not Associated"
+992455475 Jun 13 14:04:35 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455535 Jun 13 14:05:35 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992455555 Jun 13 14:05:55 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455557 Jun 13 14:05:57 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992455635 Jun 13 14:07:15 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455655 Jun 13 14:07:35 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455715 Jun 13 14:08:35 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455723 Jun 13 14:08:43 AdmBldg16AP1 AdmBldg16AP1 (Info): Deauthenticating 004096e0c497, reason "Inactivity"
+992455787 Jun 13 14:09:47 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 Authenticated
+992455787 Jun 13 14:09:47 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 Associated
+992455790 Jun 13 14:09:50 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992455799 Jun 13 14:09:59 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992455815 Jun 13 14:10:15 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455817 Jun 13 14:10:17 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992455823 Jun 13 14:10:23 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992455823 Jun 13 14:10:23 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992455833 Jun 13 14:10:33 AcadBldg4AP2 AcadBldg4AP2 (Info): Station 0030654806d7 Authenticated
+992455833 Jun 13 14:10:33 AcadBldg4AP2 AcadBldg4AP2 (Info): Station 0030654806d7 Associated
+992455855 Jun 13 14:10:55 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455895 Jun 13 14:11:35 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455935 Jun 13 14:12:15 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992455937 Jun 13 14:12:17 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992455955 Jun 13 14:12:35 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992456055 Jun 13 14:14:15 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992456057 Jun 13 14:14:17 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992456115 Jun 13 14:15:15 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992456135 Jun 13 14:15:35 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992456137 Jun 13 14:15:37 LibBldg1AP12 LibBldg1AP12 (Info): Deauthenticating 0030653813fd, reason "Inactivity"
+992456152 Jun 13 14:15:52 AcadBldg8AP5 AcadBldg8AP5 (Info): Deauthenticating 00306525ef19, reason "Inactivity"
+992456186 Jun 13 14:16:26 AcadBldg8AP5 AcadBldg8AP5 (Info): Deauthenticating 0040964a65e6, reason "Inactivity"
+992456251 Jun 13 14:17:31 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992456252 Jun 13 14:17:32 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992456252 Jun 13 14:17:32 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992456263 Jun 13 14:17:43 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992456263 Jun 13 14:17:43 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992456284 Jun 13 14:18:04 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992456344 Jun 13 14:19:04 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Authenticated
+992456344 Jun 13 14:19:04 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Associated
+992456365 Jun 13 14:19:25 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992456367 Jun 13 14:19:27 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992456435 Jun 13 14:20:35 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992456455 Jun 13 14:20:55 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992456457 Jun 13 14:20:57 AcadBldg16AP5 AcadBldg16AP5 (Info): Station 00409696d938 Authenticated
+992456458 Jun 13 14:20:58 AcadBldg16AP5 AcadBldg16AP5 (Info): Disassociating 00409696d938, reason "Not Associated"
+992456568 Jun 13 14:22:48 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 00409696d938 Authenticated
+992456666 Jun 13 14:24:26 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992456666 Jun 13 14:24:26 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992456737 Jun 13 14:25:37 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Authenticated
+992456737 Jun 13 14:25:37 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Associated
+992456890 Jun 13 14:28:10 LibBldg1AP2 LibBldg1AP2 (Info): Station 0040961e58be Authenticated
+992456890 Jun 13 14:28:10 LibBldg1AP2 LibBldg1AP2 (Info): Station 0040961e58be Reassociated
+992456890 Jun 13 14:28:10 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be roamed
+992456961 Jun 13 14:29:21 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 003065895d9b Authenticated
+992456961 Jun 13 14:29:21 AcadBldg29AP1 AcadBldg29AP1 (Info): Station 003065895d9b Associated
+992457201 Jun 13 14:33:21 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Authenticated
+992457201 Jun 13 14:33:21 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Associated
+992457231 Jun 13 14:33:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992457231 Jun 13 14:33:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992457249 Jun 13 14:34:09 AcadBldg10AP4 AcadBldg10AP4 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992457285 Jun 13 14:34:45 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096d06bb2 Authenticated
+992457285 Jun 13 14:34:45 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 004096d06bb2 Associated
+992457389 Jun 13 14:36:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992457389 Jun 13 14:36:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992457424 Jun 13 14:37:04 ResBldg22AP1 ResBldg22AP1 (Info): Station 004096a6153a Authenticated
+992457424 Jun 13 14:37:04 ResBldg22AP1 ResBldg22AP1 (Info): Station 004096a6153a Associated
+992457568 Jun 13 14:39:28 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Authenticated
+992457568 Jun 13 14:39:28 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Reassociated
+992457568 Jun 13 14:39:28 ResBldg22AP1 ResBldg22AP1 (Info): Station 004096a6153a roamed
+992457611 Jun 13 14:40:11 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992457620 Jun 13 14:40:20 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992457621 Jun 13 14:40:21 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Authenticated
+992457621 Jun 13 14:40:21 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Associated
+992457847 Jun 13 14:44:07 AcadBldg10AP18 AcadBldg10AP18 (Info): Deauthenticating 003065b2c127, reason "Inactivity"
+992457904 Jun 13 14:45:04 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Must Authenticate Before Associating"
+992457904 Jun 13 14:45:04 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Authenticated
+992457904 Jun 13 14:45:04 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992457918 Jun 13 14:45:18 AcadBldg10AP7 AcadBldg10AP7 (Info): Deauthenticating 00306572a9d8, reason "Must Authenticate Before Associating"
+992457918 Jun 13 14:45:18 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Authenticated
+992457918 Jun 13 14:45:18 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Reassociated
+992457918 Jun 13 14:45:18 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 roamed
+992457924 Jun 13 14:45:24 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992457964 Jun 13 14:46:04 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992457964 Jun 13 14:46:04 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992457970 Jun 13 14:46:10 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992457989 Jun 13 14:46:29 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992457990 Jun 13 14:46:30 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Authenticated
+992457990 Jun 13 14:46:30 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Associated
+992458043 Jun 13 14:47:23 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992458061 Jun 13 14:47:41 AcadBldg4AP2 AcadBldg4AP2 (Info): Station 0030654806d7 Authenticated
+992458061 Jun 13 14:47:41 AcadBldg4AP2 AcadBldg4AP2 (Info): Station 0030654806d7 Associated
+992458067 Jun 13 14:47:47 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992458074 Jun 13 14:47:54 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992458075 Jun 13 14:47:55 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992458075 Jun 13 14:47:55 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992458088 Jun 13 14:48:08 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992458102 Jun 13 14:48:22 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992458123 Jun 13 14:48:43 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992458123 Jun 13 14:48:43 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992458123 Jun 13 14:48:43 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992458126 Jun 13 14:48:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Reassociated
+992458126 Jun 13 14:48:46 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992458148 Jun 13 14:49:08 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992458148 Jun 13 14:49:08 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992458163 Jun 13 14:49:23 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992458204 Jun 13 14:50:04 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992458204 Jun 13 14:50:04 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992458204 Jun 13 14:50:04 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992458259 Jun 13 14:50:59 AcadBldg16AP5 AcadBldg16AP5 (Info): Deauthenticating 00409696d938, reason "Inactivity"
+992458276 Jun 13 14:51:16 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992458276 Jun 13 14:51:16 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992458440 Jun 13 14:54:00 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992458447 Jun 13 14:54:07 AcadBldg16AP2 AcadBldg16AP2 (Info): Deauthenticating 00409696d938, reason "Inactivity"
+992458468 Jun 13 14:54:28 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992458543 Jun 13 14:55:43 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Authenticated
+992458543 Jun 13 14:55:43 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Associated
+992458558 Jun 13 14:55:58 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992458575 Jun 13 14:56:15 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992458820 Jun 13 15:00:20 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Authenticated
+992458820 Jun 13 15:00:20 ResBldg43AP2 ResBldg43AP2 (Info): Station 00306534d07b Associated
+992458862 Jun 13 15:01:02 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992458865 Jun 13 15:01:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992458878 Jun 13 15:01:18 AcadBldg29AP1 AcadBldg29AP1 (Info): Deauthenticating 003065895d9b, reason "Inactivity"
+992458920 Jun 13 15:02:00 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992458950 Jun 13 15:02:30 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992458994 Jun 13 15:03:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992458994 Jun 13 15:03:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992459032 Jun 13 15:03:52 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992459032 Jun 13 15:03:52 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992459032 Jun 13 15:03:52 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992459081 Jun 13 15:04:41 AcadBldg16AP5 AcadBldg16AP5 (Info): Deauthenticating 00022db6cc78, reason "Inactivity"
+992459198 Jun 13 15:06:38 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653daa8c Authenticated
+992459198 Jun 13 15:06:38 LibBldg1AP5 LibBldg1AP5 (Info): Station 0030653daa8c Associated
+992459399 Jun 13 15:09:59 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992459407 Jun 13 15:10:07 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992459452 Jun 13 15:10:52 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 004096f20d21 Authenticated
+992459452 Jun 13 15:10:52 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 004096f20d21 Reassociated
+992459478 Jun 13 15:11:18 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 004096a6153a, reason "Inactivity"
+992459484 Jun 13 15:11:24 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992459484 Jun 13 15:11:24 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992459562 Jun 13 15:12:42 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 0040964a65e6 Authenticated
+992459562 Jun 13 15:12:42 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 0040964a65e6 Associated
+992459646 Jun 13 15:14:06 AthlBldg2AP4 AthlBldg2AP4 (Info): Station 004096bd22a2 Authenticated
+992459646 Jun 13 15:14:06 AthlBldg2AP4 AthlBldg2AP4 (Info): Station 004096bd22a2 Reassociated
+992459649 Jun 13 15:14:09 AthlBldg2AP1 AthlBldg2AP1 (Info): Station 004096bd22a2 Authenticated
+992459649 Jun 13 15:14:09 AthlBldg2AP1 AthlBldg2AP1 (Info): Station 004096bd22a2 Reassociated
+992459649 Jun 13 15:14:09 AthlBldg2AP4 AthlBldg2AP4 (Info): Station 004096bd22a2 roamed
+992459897 Jun 13 15:18:17 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992459907 Jun 13 15:18:27 AcadBldg4AP2 AcadBldg4AP2 (Info): Deauthenticating 0030654806d7, reason "Inactivity"
+992460005 Jun 13 15:20:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992460005 Jun 13 15:20:05 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992460273 Jun 13 15:24:33 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992460273 Jun 13 15:24:33 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992460471 Jun 13 15:27:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460471 Jun 13 15:27:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460473 Jun 13 15:27:53 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Authenticated
+992460474 Jun 13 15:27:54 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 0040960a7573 Associated
+992460700 Jun 13 15:31:40 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460700 Jun 13 15:31:40 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460719 Jun 13 15:31:59 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460719 Jun 13 15:31:59 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460736 Jun 13 15:32:16 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460736 Jun 13 15:32:16 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460738 Jun 13 15:32:18 AcadBldg16AP3 AcadBldg16AP3 (Info): Deauthenticating 004096cf9f64, reason "Inactivity"
+992460753 Jun 13 15:32:33 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460753 Jun 13 15:32:33 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460769 Jun 13 15:32:49 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460769 Jun 13 15:32:49 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460786 Jun 13 15:33:06 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460786 Jun 13 15:33:06 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460786 Jun 13 15:33:06 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992460786 Jun 13 15:33:06 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992460802 Jun 13 15:33:22 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460802 Jun 13 15:33:22 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460819 Jun 13 15:33:39 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460819 Jun 13 15:33:39 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460836 Jun 13 15:33:56 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460836 Jun 13 15:33:56 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460852 Jun 13 15:34:12 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460852 Jun 13 15:34:12 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460854 Jun 13 15:34:14 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306581d2db Reassociated
+992460858 Jun 13 15:34:18 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306581d2db Reassociated
+992460869 Jun 13 15:34:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460869 Jun 13 15:34:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460886 Jun 13 15:34:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460886 Jun 13 15:34:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460902 Jun 13 15:35:02 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460902 Jun 13 15:35:02 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460919 Jun 13 15:35:19 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460919 Jun 13 15:35:19 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460923 Jun 13 15:35:23 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Reassociated
+992460923 Jun 13 15:35:23 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992460923 Jun 13 15:35:23 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992460938 Jun 13 15:35:38 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460938 Jun 13 15:35:38 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460955 Jun 13 15:35:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460955 Jun 13 15:35:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460960 Jun 13 15:36:00 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992460960 Jun 13 15:36:00 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992460971 Jun 13 15:36:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460971 Jun 13 15:36:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992460988 Jun 13 15:36:28 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992460988 Jun 13 15:36:28 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461004 Jun 13 15:36:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461004 Jun 13 15:36:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461021 Jun 13 15:37:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461021 Jun 13 15:37:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461037 Jun 13 15:37:17 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461037 Jun 13 15:37:17 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461052 Jun 13 15:37:32 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992461052 Jun 13 15:37:32 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992461054 Jun 13 15:37:34 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461054 Jun 13 15:37:34 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461070 Jun 13 15:37:50 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461070 Jun 13 15:37:50 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461089 Jun 13 15:38:09 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461089 Jun 13 15:38:09 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461106 Jun 13 15:38:26 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461106 Jun 13 15:38:26 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461124 Jun 13 15:38:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461124 Jun 13 15:38:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461134 Jun 13 15:38:54 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992461134 Jun 13 15:38:54 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992461134 Jun 13 15:38:54 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992461141 Jun 13 15:39:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461141 Jun 13 15:39:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461158 Jun 13 15:39:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461158 Jun 13 15:39:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461174 Jun 13 15:39:34 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461174 Jun 13 15:39:34 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461191 Jun 13 15:39:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461191 Jun 13 15:39:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461200 Jun 13 15:40:00 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992461200 Jun 13 15:40:00 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992461200 Jun 13 15:40:00 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992461208 Jun 13 15:40:08 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461208 Jun 13 15:40:08 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461224 Jun 13 15:40:24 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461224 Jun 13 15:40:24 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461241 Jun 13 15:40:41 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461241 Jun 13 15:40:41 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461258 Jun 13 15:40:58 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461258 Jun 13 15:40:58 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461273 Jun 13 15:41:13 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 004096f20d21, reason "Inactivity"
+992461274 Jun 13 15:41:14 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461274 Jun 13 15:41:14 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461293 Jun 13 15:41:33 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461293 Jun 13 15:41:33 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461310 Jun 13 15:41:50 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461310 Jun 13 15:41:50 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461326 Jun 13 15:42:06 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Authenticated
+992461326 Jun 13 15:42:06 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Associated
+992461451 Jun 13 15:44:11 AcadBldg18AP2 AcadBldg18AP2 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992461454 Jun 13 15:44:14 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461454 Jun 13 15:44:14 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461471 Jun 13 15:44:31 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461471 Jun 13 15:44:31 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461487 Jun 13 15:44:47 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461487 Jun 13 15:44:47 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461504 Jun 13 15:45:04 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461504 Jun 13 15:45:04 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461521 Jun 13 15:45:21 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461521 Jun 13 15:45:21 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461528 Jun 13 15:45:28 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030651794b6 Authenticated
+992461528 Jun 13 15:45:28 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030651794b6 Associated
+992461539 Jun 13 15:45:39 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461539 Jun 13 15:45:39 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461558 Jun 13 15:45:58 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461558 Jun 13 15:45:58 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461575 Jun 13 15:46:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461575 Jun 13 15:46:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461589 Jun 13 15:46:29 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992461589 Jun 13 15:46:29 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992461591 Jun 13 15:46:31 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461591 Jun 13 15:46:31 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461608 Jun 13 15:46:48 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461608 Jun 13 15:46:48 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461624 Jun 13 15:47:04 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461624 Jun 13 15:47:04 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461641 Jun 13 15:47:21 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461641 Jun 13 15:47:21 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461658 Jun 13 15:47:38 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461658 Jun 13 15:47:38 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461675 Jun 13 15:47:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461675 Jun 13 15:47:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461692 Jun 13 15:48:12 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461692 Jun 13 15:48:12 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461708 Jun 13 15:48:28 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461708 Jun 13 15:48:28 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461725 Jun 13 15:48:45 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461725 Jun 13 15:48:45 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461741 Jun 13 15:49:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461741 Jun 13 15:49:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461758 Jun 13 15:49:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461758 Jun 13 15:49:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461775 Jun 13 15:49:35 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461775 Jun 13 15:49:35 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461792 Jun 13 15:49:52 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461792 Jun 13 15:49:52 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461810 Jun 13 15:50:10 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461810 Jun 13 15:50:10 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461829 Jun 13 15:50:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461829 Jun 13 15:50:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461846 Jun 13 15:50:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461846 Jun 13 15:50:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461865 Jun 13 15:51:05 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461865 Jun 13 15:51:05 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461883 Jun 13 15:51:23 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461883 Jun 13 15:51:23 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461900 Jun 13 15:51:40 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461900 Jun 13 15:51:40 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461931 Jun 13 15:52:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461931 Jun 13 15:52:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461947 Jun 13 15:52:27 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461947 Jun 13 15:52:27 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461964 Jun 13 15:52:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461964 Jun 13 15:52:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461981 Jun 13 15:53:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461981 Jun 13 15:53:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992461987 Jun 13 15:53:07 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Authenticated
+992461987 Jun 13 15:53:07 AcadBldg18AP10 AcadBldg18AP10 (Info): Station 00022dfe1f69 Associated
+992461987 Jun 13 15:53:07 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 roamed
+992461987 Jun 13 15:53:07 AcadBldg18AP4 AcadBldg18AP4 (Info): Station 00022dfe1f69 roamed
+992461998 Jun 13 15:53:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992461998 Jun 13 15:53:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462017 Jun 13 15:53:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462017 Jun 13 15:53:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462033 Jun 13 15:53:53 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462033 Jun 13 15:53:53 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462050 Jun 13 15:54:10 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462050 Jun 13 15:54:10 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462069 Jun 13 15:54:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462069 Jun 13 15:54:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462086 Jun 13 15:54:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462086 Jun 13 15:54:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462086 Jun 13 15:54:46 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306539db23, reason "Must Authenticate Before Associating"
+992462086 Jun 13 15:54:46 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Authenticated
+992462086 Jun 13 15:54:46 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Reassociated
+992462102 Jun 13 15:55:02 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462102 Jun 13 15:55:02 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462119 Jun 13 15:55:19 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462119 Jun 13 15:55:19 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462136 Jun 13 15:55:36 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462136 Jun 13 15:55:36 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462224 Jun 13 15:57:04 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992462224 Jun 13 15:57:04 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992462224 Jun 13 15:57:04 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462228 Jun 13 15:57:08 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Reassociated
+992462228 Jun 13 15:57:08 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992462240 Jun 13 15:57:20 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462240 Jun 13 15:57:20 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462257 Jun 13 15:57:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462257 Jun 13 15:57:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462274 Jun 13 15:57:54 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462274 Jun 13 15:57:54 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462291 Jun 13 15:58:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462291 Jun 13 15:58:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462308 Jun 13 15:58:28 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462308 Jun 13 15:58:28 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462325 Jun 13 15:58:45 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992462325 Jun 13 15:58:45 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992462325 Jun 13 15:58:45 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462342 Jun 13 15:59:02 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462342 Jun 13 15:59:02 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462342 Jun 13 15:59:02 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992462361 Jun 13 15:59:21 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992462361 Jun 13 15:59:21 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992462361 Jun 13 15:59:21 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462378 Jun 13 15:59:38 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462378 Jun 13 15:59:38 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462378 Jun 13 15:59:38 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992462395 Jun 13 15:59:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462395 Jun 13 15:59:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462412 Jun 13 16:00:12 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992462412 Jun 13 16:00:12 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992462412 Jun 13 16:00:12 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462429 Jun 13 16:00:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462429 Jun 13 16:00:29 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462429 Jun 13 16:00:29 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992462446 Jun 13 16:00:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462446 Jun 13 16:00:46 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462463 Jun 13 16:01:03 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992462463 Jun 13 16:01:03 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992462463 Jun 13 16:01:03 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462480 Jun 13 16:01:20 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462480 Jun 13 16:01:20 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462480 Jun 13 16:01:20 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992462485 Jun 13 16:01:25 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Reassociated
+992462485 Jun 13 16:01:25 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462499 Jun 13 16:01:39 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462499 Jun 13 16:01:39 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462499 Jun 13 16:01:39 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992462518 Jun 13 16:01:58 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992462518 Jun 13 16:01:58 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992462518 Jun 13 16:01:58 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462555 Jun 13 16:02:35 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992462555 Jun 13 16:02:35 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992462555 Jun 13 16:02:35 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992462576 Jun 13 16:02:56 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Authenticated
+992462576 Jun 13 16:02:56 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b Associated
+992462576 Jun 13 16:02:56 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992462676 Jun 13 16:04:36 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992462679 Jun 13 16:04:39 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306581d2db, reason "Inactivity"
+992462780 Jun 13 16:06:20 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Authenticated
+992462780 Jun 13 16:06:20 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Associated
+992462780 Jun 13 16:06:20 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Authenticated
+992462780 Jun 13 16:06:20 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Associated
+992462781 Jun 13 16:06:21 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Authenticated
+992462781 Jun 13 16:06:21 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Associated
+992462866 Jun 13 16:07:46 AcadBldg18AP2 AcadBldg18AP2 (Info): Deauthenticating 004096d06bb2, reason "Inactivity"
+992462874 Jun 13 16:07:54 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992462875 Jun 13 16:07:55 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992462875 Jun 13 16:07:55 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992462964 Jun 13 16:09:24 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Authenticated
+992462964 Jun 13 16:09:24 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 004096cf9f64 Associated
+992463106 Jun 13 16:11:46 AthlBldg2AP1 AthlBldg2AP1 (Info): Deauthenticating 004096bd22a2, reason "Inactivity"
+992463277 Jun 13 16:14:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992463277 Jun 13 16:14:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992463277 Jun 13 16:14:37 AcadBldg16AP2 AcadBldg16AP2 (Info): Station 003065e48f1b roamed
+992463453 Jun 13 16:17:33 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Authenticated
+992463453 Jun 13 16:17:33 LibBldg2AP7 LibBldg2AP7 (Info): Station 0030655b9345 Associated
+992463467 Jun 13 16:17:47 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Authenticated
+992463467 Jun 13 16:17:47 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Associated
+992463467 Jun 13 16:17:47 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 roamed
+992463538 Jun 13 16:18:58 LibBldg2AP7 LibBldg2AP7 (Info): Deauthenticating 0030651794b6, reason "Inactivity"
+992463907 Jun 13 16:25:07 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992464007 Jun 13 16:26:47 AcadBldg10AP4 AcadBldg10AP4 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992464213 Jun 13 16:30:13 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992464214 Jun 13 16:30:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992464214 Jun 13 16:30:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992464216 Jun 13 16:30:16 AdmBldg6AP1 AdmBldg6AP1 (Info): Deauthenticating 00306528bac1, reason "Inactivity"
+992464446 Jun 13 16:34:06 AcadBldg12AP2 AcadBldg12AP2 (Info): Deauthenticating 004096f20d21, reason "Inactivity"
+992464597 Jun 13 16:36:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992464597 Jun 13 16:36:37 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992464696 Jun 13 16:38:16 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992464711 Jun 13 16:38:31 LibBldg3AP2 LibBldg3AP2 (Info): Deauthenticating 0040961b931b, reason "Inactivity"
+992464754 Jun 13 16:39:14 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992464754 Jun 13 16:39:14 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992464768 Jun 13 16:39:28 AcadBldg16AP3 AcadBldg16AP3 (Info): Deauthenticating 004096cf9f64, reason "Inactivity"
+992464846 Jun 13 16:40:46 AcadBldg18AP10 AcadBldg18AP10 (Info): Deauthenticating 00022dfe1f69, reason "Inactivity"
+992465296 Jun 13 16:48:16 AcadBldg18AP3 AcadBldg18AP3 (Info): Deauthenticating 0030651f7707, reason "Inactivity"
+992465415 Jun 13 16:50:15 SocBldg1AP5 SocBldg1AP5 (Info): Deauthenticating 003065d8efb0, reason "Inactivity"
+992465433 Jun 13 16:50:33 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465433 Jun 13 16:50:33 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465554 Jun 13 16:52:34 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 00601df57e26, reason "Inactivity"
+992465619 Jun 13 16:53:39 AcadBldg10AP8 AcadBldg10AP8 (Info): Station 00306572a9d8 Authenticated
+992465619 Jun 13 16:53:39 AcadBldg10AP8 AcadBldg10AP8 (Info): Station 00306572a9d8 Associated
+992465619 Jun 13 16:53:39 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 roamed
+992465815 Jun 13 16:56:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465815 Jun 13 16:56:55 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465818 Jun 13 16:56:58 AcadBldg33AP6 AcadBldg33AP6 (Info): Deauthenticating 004096daa8fe, reason "Inactivity"
+992465835 Jun 13 16:57:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465835 Jun 13 16:57:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465851 Jun 13 16:57:31 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465851 Jun 13 16:57:31 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465868 Jun 13 16:57:48 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465868 Jun 13 16:57:48 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465885 Jun 13 16:58:05 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465885 Jun 13 16:58:05 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465901 Jun 13 16:58:21 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465901 Jun 13 16:58:21 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465918 Jun 13 16:58:38 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 003065e48f1b Authenticated
+992465918 Jun 13 16:58:38 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 003065e48f1b Associated
+992465918 Jun 13 16:58:38 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992465934 Jun 13 16:58:54 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465934 Jun 13 16:58:54 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465934 Jun 13 16:58:54 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 003065e48f1b roamed
+992465951 Jun 13 16:59:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465951 Jun 13 16:59:11 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992465958 Jun 13 16:59:18 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992465958 Jun 13 16:59:18 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992465968 Jun 13 16:59:28 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 003065e48f1b Authenticated
+992465968 Jun 13 16:59:28 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 003065e48f1b Associated
+992465968 Jun 13 16:59:28 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b roamed
+992465979 Jun 13 16:59:39 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Reassociated
+992465979 Jun 13 16:59:39 AcadBldg16AP3 AcadBldg16AP3 (Info): Station 003065e48f1b roamed
+992465984 Jun 13 16:59:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992465984 Jun 13 16:59:44 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466001 Jun 13 17:00:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466001 Jun 13 17:00:01 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466005 Jun 13 17:00:05 AcadBldg35AP1 AcadBldg35AP1 (Info): Deauthenticating 0040962377ec, reason "Inactivity"
+992466018 Jun 13 17:00:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466018 Jun 13 17:00:18 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466034 Jun 13 17:00:34 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466034 Jun 13 17:00:34 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466040 Jun 13 17:00:40 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992466041 Jun 13 17:00:41 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992466041 Jun 13 17:00:41 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992466051 Jun 13 17:00:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466051 Jun 13 17:00:51 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466068 Jun 13 17:01:08 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466068 Jun 13 17:01:08 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466084 Jun 13 17:01:24 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466084 Jun 13 17:01:24 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466095 Jun 13 17:01:35 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992466095 Jun 13 17:01:35 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992466101 Jun 13 17:01:41 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466101 Jun 13 17:01:41 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466118 Jun 13 17:01:58 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466118 Jun 13 17:01:58 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466135 Jun 13 17:02:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466135 Jun 13 17:02:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466169 Jun 13 17:02:49 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992466169 Jun 13 17:02:49 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992466436 Jun 13 17:07:16 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be Authenticated
+992466436 Jun 13 17:07:16 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be Reassociated
+992466436 Jun 13 17:07:16 LibBldg1AP2 LibBldg1AP2 (Info): Station 0040961e58be roamed
+992466436 Jun 13 17:07:16 LibBldg1AP2 LibBldg1AP2 (Info): Station 0040961e58be roamed
+992466465 Jun 13 17:07:45 LibBldg1AP2 LibBldg1AP2 (Info): Station 0040961e58be Authenticated
+992466465 Jun 13 17:07:45 LibBldg1AP2 LibBldg1AP2 (Info): Station 0040961e58be Reassociated
+992466465 Jun 13 17:07:45 AcadBldg15AP4 AcadBldg15AP4 (Info): Station 0040961e58be roamed
+992466511 Jun 13 17:08:31 AcadBldg8AP5 AcadBldg8AP5 (Info): Deauthenticating 00306525ef19, reason "Inactivity"
+992466512 Jun 13 17:08:32 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992466512 Jun 13 17:08:32 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992466526 Jun 13 17:08:46 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992466526 Jun 13 17:08:46 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992466555 Jun 13 17:09:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Authenticated
+992466555 Jun 13 17:09:15 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065e48f1b Associated
+992466557 Jun 13 17:09:17 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992466557 Jun 13 17:09:17 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992466575 Jun 13 17:09:35 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992466576 Jun 13 17:09:36 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Authenticated
+992466576 Jun 13 17:09:36 AdmBldg19AP3 AdmBldg19AP3 (Info): Station 003065e9aecb Associated
+992466576 Jun 13 17:09:36 AcadBldg8AP5 AcadBldg8AP5 (Info): Deauthenticating 0040964a65e6, reason "Inactivity"
+992466630 Jun 13 17:10:30 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 0040960a7573, reason "Inactivity"
+992466642 Jun 13 17:10:42 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992466642 Jun 13 17:10:42 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992466717 Jun 13 17:11:57 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992466717 Jun 13 17:11:57 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992466893 Jun 13 17:14:53 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992466893 Jun 13 17:14:53 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992466950 Jun 13 17:15:50 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Authenticated
+992466950 Jun 13 17:15:50 AcadBldg10AP4 AcadBldg10AP4 (Info): Station 0040963b433c Associated
+992467043 Jun 13 17:17:23 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Authenticated
+992467043 Jun 13 17:17:23 AcadBldg18AP2 AcadBldg18AP2 (Info): Station 0040963b433c Associated
+992467293 Jun 13 17:21:33 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Authenticated
+992467293 Jun 13 17:21:33 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Associated
+992467293 Jun 13 17:21:33 AcadBldg10AP8 AcadBldg10AP8 (Info): Station 00306572a9d8 roamed
+992467311 Jun 13 17:21:51 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Reassociated
+992467311 Jun 13 17:21:51 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 roamed
+992467782 Jun 13 17:29:42 AcadBldg18AP2 AcadBldg18AP2 (Info): Deauthenticating 00601d66adca, reason "Inactivity"
+992467867 Jun 13 17:31:07 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992467868 Jun 13 17:31:08 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992467868 Jun 13 17:31:08 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992468333 Jun 13 17:38:53 AcadBldg8AP5 AcadBldg8AP5 (Info): Deauthenticating 00306525ef19, reason "Inactivity"
+992468335 Jun 13 17:38:55 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Authenticated
+992468335 Jun 13 17:38:55 AcadBldg8AP5 AcadBldg8AP5 (Info): Station 00306525ef19 Associated
+992468356 Jun 13 17:39:16 LibBldg2AP7 LibBldg2AP7 (Info): Deauthenticating 0030655b9345, reason "Inactivity"
+992468371 Jun 13 17:39:31 AcadBldg16AP4 AcadBldg16AP4 (Info): Deauthenticating 003065e48f1b, reason "Inactivity"
+992468421 Jun 13 17:40:21 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 003065fe6512 Authenticated
+992468421 Jun 13 17:40:21 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 003065fe6512 Associated
+992468719 Jun 13 17:45:19 LibBldg1AP2 LibBldg1AP2 (Info): Deauthenticating 0040961e58be, reason "Inactivity"
+992468731 Jun 13 17:45:31 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Authenticated
+992468731 Jun 13 17:45:31 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 Associated
+992468738 Jun 13 17:45:38 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 Reassociated
+992468738 Jun 13 17:45:38 AcadBldg10AP7 AcadBldg10AP7 (Info): Station 00306572a9d8 roamed
+992468786 Jun 13 17:46:26 AcadBldg10AP13 AcadBldg10AP13 (Info): Deauthenticating 00306572a9d8, reason "Must Authenticate Before Associating"
+992468786 Jun 13 17:46:26 AcadBldg10AP13 AcadBldg10AP13 (Info): Station 00306572a9d8 Authenticated
+992468786 Jun 13 17:46:26 AcadBldg10AP13 AcadBldg10AP13 (Info): Station 00306572a9d8 Reassociated
+992468786 Jun 13 17:46:26 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 00306572a9d8 roamed
+992468856 Jun 13 17:47:36 AcadBldg10AP4 AcadBldg10AP4 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992468893 Jun 13 17:48:13 AdmBldg19AP3 AdmBldg19AP3 (Info): Deauthenticating 003065e9aecb, reason "Inactivity"
+992469002 Jun 13 17:50:02 AcadBldg18AP2 AcadBldg18AP2 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992469093 Jun 13 17:51:33 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Authenticated
+992469093 Jun 13 17:51:33 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Associated
+992469320 Jun 13 17:55:20 AcadBldg10AP15 AcadBldg10AP15 (Info): Deauthenticating 0030653c8114, reason "Inactivity"
+992469365 Jun 13 17:56:05 ResBldg13AP1 ResBldg13AP1 (Info): Station 0050da25fe2d Authenticated
+992469365 Jun 13 17:56:05 ResBldg13AP1 ResBldg13AP1 (Info): Station 0050da25fe2d Associated
+992469694 Jun 13 18:01:34 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992469695 Jun 13 18:01:35 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992469695 Jun 13 18:01:35 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992469746 Jun 13 18:02:26 AcadBldg22AP2 AcadBldg22AP2 (Info): Station 003065fe6512 Authenticated
+992469746 Jun 13 18:02:26 AcadBldg22AP2 AcadBldg22AP2 (Info): Station 003065fe6512 Associated
+992469746 Jun 13 18:02:26 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 003065fe6512 roamed
+992469746 Jun 13 18:02:26 AcadBldg22AP1 AcadBldg22AP1 (Info): Station 003065fe6512 roamed
+992470156 Jun 13 18:09:16 AcadBldg8AP5 AcadBldg8AP5 (Info): Deauthenticating 00306525ef19, reason "Inactivity"
+992470506 Jun 13 18:15:06 ResBldg22AP1 ResBldg22AP1 (Info): Station 004096a6153a Authenticated
+992470506 Jun 13 18:15:06 ResBldg22AP1 ResBldg22AP1 (Info): Station 004096a6153a Associated
+992470528 Jun 13 18:15:28 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Authenticated
+992470528 Jun 13 18:15:28 ResBldg22AP2 ResBldg22AP2 (Info): Station 004096a6153a Reassociated
+992470528 Jun 13 18:15:28 ResBldg22AP1 ResBldg22AP1 (Info): Station 004096a6153a roamed
+992470608 Jun 13 18:16:48 AcadBldg10AP13 AcadBldg10AP13 (Info): Deauthenticating 00306572a9d8, reason "Inactivity"
+992470774 Jun 13 18:19:34 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992470774 Jun 13 18:19:34 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992470774 Jun 13 18:19:34 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992471025 Jun 13 18:23:45 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992471025 Jun 13 18:23:45 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992471026 Jun 13 18:23:46 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Authenticated
+992471026 Jun 13 18:23:46 ResBldg22AP2 ResBldg22AP2 (Info): Station 00409607afd1 Associated
+992471111 Jun 13 18:25:11 AcadBldg23AP5 AcadBldg23AP5 (Info): Deauthenticating 00306554ad08, reason "Inactivity"
+992471490 Jun 13 18:31:30 SocBldg4AP10 SocBldg4AP10 (Info): Deauthenticating 003065fe6512, reason "Must Authenticate Before Associating"
+992471490 Jun 13 18:31:30 SocBldg4AP10 SocBldg4AP10 (Info): Station 003065fe6512 Authenticated
+992471490 Jun 13 18:31:30 SocBldg4AP10 SocBldg4AP10 (Info): Station 003065fe6512 Reassociated
+992471510 Jun 13 18:31:50 AcadBldg22AP2 AcadBldg22AP2 (Info): Station 003065fe6512 Reassociated
+992471520 Jun 13 18:32:00 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992471521 Jun 13 18:32:01 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992471522 Jun 13 18:32:02 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992471585 Jun 13 18:33:05 ResBldg13AP1 ResBldg13AP1 (Info): Deauthenticating 0050da25fe2d, reason "Inactivity"
+992471811 Jun 13 18:36:51 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Associated
+992471811 Jun 13 18:36:51 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Authenticated
+992471814 Jun 13 18:36:54 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Authenticated
+992471814 Jun 13 18:36:54 AdmBldg16AP1 AdmBldg16AP1 (Info): Station 004096e0c497 Associated
+992472955 Jun 13 18:55:55 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992472955 Jun 13 18:55:55 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992472955 Jun 13 18:55:55 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992473056 Jun 13 18:57:36 ResBldg3AP3 ResBldg3AP3 (Info): Deauthenticating 0030658643c4, reason "Must Authenticate Before Associating"
+992473056 Jun 13 18:57:36 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 Authenticated
+992473056 Jun 13 18:57:36 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 Reassociated
+992473056 Jun 13 18:57:36 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992473056 Jun 13 18:57:36 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992473079 Jun 13 18:57:59 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992473079 Jun 13 18:57:59 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 roamed
+992473079 Jun 13 18:57:59 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 roamed
+992473123 Jun 13 18:58:43 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 00409607afd1, reason "Inactivity"
+992473165 Jun 13 18:59:25 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992473165 Jun 13 18:59:25 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992473165 Jun 13 18:59:25 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992473331 Jun 13 19:02:11 SocBldg4AP10 SocBldg4AP10 (Info): Deauthenticating 003065fe6512, reason "Inactivity"
+992473347 Jun 13 19:02:27 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992473348 Jun 13 19:02:28 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992473348 Jun 13 19:02:28 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992473402 Jun 13 19:03:22 AcadBldg22AP2 AcadBldg22AP2 (Info): Deauthenticating 003065fe6512, reason "Inactivity"
+992473721 Jun 13 19:08:41 AdmBldg16AP1 AdmBldg16AP1 (Info): Deauthenticating 004096e0c497, reason "Inactivity"
+992473880 Jun 13 19:11:20 LibBldg1AP5 LibBldg1AP5 (Info): Deauthenticating 0030653daa8c, reason "Inactivity"
+992474171 Jun 13 19:16:11 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Reassociated
+992474171 Jun 13 19:16:11 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992474171 Jun 13 19:16:11 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992474478 Jun 13 19:21:18 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Authenticated
+992474478 Jun 13 19:21:18 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Associated
+992474635 Jun 13 19:23:55 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992474635 Jun 13 19:23:55 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992474635 Jun 13 19:23:55 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992474666 Jun 13 19:24:26 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992474666 Jun 13 19:24:26 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992474666 Jun 13 19:24:26 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992474712 Jun 13 19:25:12 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992474712 Jun 13 19:25:12 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992474712 Jun 13 19:25:12 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992474881 Jun 13 19:28:01 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992474881 Jun 13 19:28:01 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992474881 Jun 13 19:28:01 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992474977 Jun 13 19:29:37 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Authenticated
+992474977 Jun 13 19:29:37 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Associated
+992475174 Jun 13 19:32:54 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992475175 Jun 13 19:32:55 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992475175 Jun 13 19:32:55 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992476023 Jun 13 19:47:03 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Authenticated
+992476023 Jun 13 19:47:03 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Associated
+992476145 Jun 13 19:49:05 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992476145 Jun 13 19:49:05 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992476145 Jun 13 19:49:05 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992476256 Jun 13 19:50:56 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992476256 Jun 13 19:50:56 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992476256 Jun 13 19:50:56 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992476505 Jun 13 19:55:05 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992476505 Jun 13 19:55:05 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992476505 Jun 13 19:55:05 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992476524 Jun 13 19:55:24 ResBldg21AP3 ResBldg21AP3 (Info): Deauthenticating 003065ed4f04, reason "Must Authenticate Before Associating"
+992476524 Jun 13 19:55:24 ResBldg21AP3 ResBldg21AP3 (Info): Station 003065ed4f04 Authenticated
+992476524 Jun 13 19:55:24 ResBldg21AP3 ResBldg21AP3 (Info): Station 003065ed4f04 Reassociated
+992476524 Jun 13 19:55:24 ResBldg21AP2 ResBldg21AP2 (Info): Station 003065ed4f04 roamed
+992476524 Jun 13 19:55:24 ResBldg21AP2 ResBldg21AP2 (Info): Station 003065ed4f04 roamed
+992476598 Jun 13 19:56:38 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c Authenticated
+992476598 Jun 13 19:56:38 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c Reassociated
+992476598 Jun 13 19:56:38 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c roamed
+992476600 Jun 13 19:56:40 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c Reassociated
+992476606 Jun 13 19:56:46 AcadBldg10AP22 AcadBldg10AP22 (Info): Station 0040963b433c Authenticated
+992476606 Jun 13 19:56:46 AcadBldg10AP22 AcadBldg10AP22 (Info): Station 0040963b433c Reassociated
+992476606 Jun 13 19:56:46 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c roamed
+992476623 Jun 13 19:57:03 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Authenticated
+992476623 Jun 13 19:57:03 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Reassociated
+992476623 Jun 13 19:57:03 AcadBldg10AP22 AcadBldg10AP22 (Info): Station 0040963b433c roamed
+992476628 Jun 13 19:57:08 AcadBldg10AP9 AcadBldg10AP9 (Info): Station 0040963b433c Authenticated
+992476628 Jun 13 19:57:08 AcadBldg10AP9 AcadBldg10AP9 (Info): Station 0040963b433c Reassociated
+992476628 Jun 13 19:57:08 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c roamed
+992476630 Jun 13 19:57:10 AcadBldg10AP9 AcadBldg10AP9 (Info): Station 0040963b433c Reassociated
+992476636 Jun 13 19:57:16 AcadBldg10AP22 AcadBldg10AP22 (Info): Station 0040963b433c Authenticated
+992476636 Jun 13 19:57:16 AcadBldg10AP22 AcadBldg10AP22 (Info): Station 0040963b433c Reassociated
+992476636 Jun 13 19:57:16 AcadBldg10AP9 AcadBldg10AP9 (Info): Station 0040963b433c roamed
+992476671 Jun 13 19:57:51 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c Authenticated
+992476671 Jun 13 19:57:51 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c Reassociated
+992476671 Jun 13 19:57:51 AcadBldg10AP22 AcadBldg10AP22 (Info): Station 0040963b433c roamed
+992476673 Jun 13 19:57:53 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c Reassociated
+992476678 Jun 13 19:57:58 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Authenticated
+992476678 Jun 13 19:57:58 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Reassociated
+992476678 Jun 13 19:57:58 AcadBldg10AP15 AcadBldg10AP15 (Info): Station 0040963b433c roamed
+992476716 Jun 13 19:58:36 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Authenticated
+992476716 Jun 13 19:58:36 AcadBldg10AP11 AcadBldg10AP11 (Info): Station 0040963b433c Associated
+992476748 Jun 13 19:59:08 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992476748 Jun 13 19:59:08 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992476748 Jun 13 19:59:08 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992476793 Jun 13 19:59:53 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992476793 Jun 13 19:59:53 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992476793 Jun 13 19:59:53 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992477001 Jun 13 20:03:21 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992477002 Jun 13 20:03:22 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992477002 Jun 13 20:03:22 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992477131 Jun 13 20:05:31 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992477131 Jun 13 20:05:31 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992477131 Jun 13 20:05:31 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992477203 Jun 13 20:06:43 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992477203 Jun 13 20:06:43 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992477203 Jun 13 20:06:43 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992477341 Jun 13 20:09:01 AcadBldg10AP5 AcadBldg10AP5 (Info): Station 00409608fedc Authenticated
+992477341 Jun 13 20:09:01 AcadBldg10AP5 AcadBldg10AP5 (Info): Station 00409608fedc Associated
+992477346 Jun 13 20:09:06 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Authenticated
+992477346 Jun 13 20:09:06 ResBldg13AP2 ResBldg13AP2 (Info): Station 00022d458c14 Associated
+992478097 Jun 13 20:21:37 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Reassociated
+992478097 Jun 13 20:21:37 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992478097 Jun 13 20:21:37 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992478103 Jun 13 20:21:43 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992478103 Jun 13 20:21:43 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992478103 Jun 13 20:21:43 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992478630 Jun 13 20:30:30 AcadBldg10AP11 AcadBldg10AP11 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992478828 Jun 13 20:33:48 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992478829 Jun 13 20:33:49 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992478829 Jun 13 20:33:49 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992480375 Jun 13 20:59:35 ResBldg22AP1 ResBldg22AP1 (Info): Station 00409607afd1 Authenticated
+992480375 Jun 13 20:59:35 ResBldg22AP1 ResBldg22AP1 (Info): Station 00409607afd1 Associated
+992480375 Jun 13 20:59:35 ResBldg22AP1 ResBldg22AP1 (Info): Station 00409607afd1 Authenticated
+992480375 Jun 13 20:59:35 ResBldg22AP1 ResBldg22AP1 (Info): Station 00409607afd1 Associated
+992480546 Jun 13 21:02:26 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 003065b2c127 Authenticated
+992480546 Jun 13 21:02:26 AcadBldg10AP18 AcadBldg10AP18 (Info): Station 003065b2c127 Associated
+992480654 Jun 13 21:04:14 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992480656 Jun 13 21:04:16 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992480656 Jun 13 21:04:16 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992480878 Jun 13 21:07:58 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Authenticated
+992480878 Jun 13 21:07:58 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Associated
+992481668 Jun 13 21:21:08 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065fe6512 Authenticated
+992481668 Jun 13 21:21:08 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065fe6512 Associated
+992482021 Jun 13 21:27:01 ResBldg43AP2 ResBldg43AP2 (Info): Deauthenticating 00306534d07b, reason "Inactivity"
+992482146 Jun 13 21:29:06 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992482146 Jun 13 21:29:06 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992482146 Jun 13 21:29:06 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992482390 Jun 13 21:33:10 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992482390 Jun 13 21:33:10 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992482390 Jun 13 21:33:10 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992482481 Jun 13 21:34:41 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992482482 Jun 13 21:34:42 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992482482 Jun 13 21:34:42 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992482957 Jun 13 21:42:37 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 Authenticated
+992482957 Jun 13 21:42:37 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 Associated
+992482957 Jun 13 21:42:37 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992482957 Jun 13 21:42:37 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992482980 Jun 13 21:43:00 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Reassociated
+992482980 Jun 13 21:43:00 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 roamed
+992482987 Jun 13 21:43:07 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Reassociated
+992482987 Jun 13 21:43:07 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992482987 Jun 13 21:43:07 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992482989 Jun 13 21:43:09 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992482989 Jun 13 21:43:09 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992482989 Jun 13 21:43:09 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992483029 Jun 13 21:43:49 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 Reassociated
+992483029 Jun 13 21:43:49 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992483029 Jun 13 21:43:49 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992483496 Jun 13 21:51:36 AcadBldg10AP18 AcadBldg10AP18 (Info): Deauthenticating 003065b2c127, reason "Inactivity"
+992484308 Jun 13 22:05:08 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992484309 Jun 13 22:05:09 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992484309 Jun 13 22:05:09 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992485203 Jun 13 22:20:03 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992485203 Jun 13 22:20:03 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992485203 Jun 13 22:20:03 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992485246 Jun 13 22:20:46 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992485246 Jun 13 22:20:46 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992485246 Jun 13 22:20:46 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992485285 Jun 13 22:21:25 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Reassociated
+992485285 Jun 13 22:21:25 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 roamed
+992485351 Jun 13 22:22:31 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 Reassociated
+992485351 Jun 13 22:22:31 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992485351 Jun 13 22:22:31 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992485916 Jun 13 22:31:56 AcadBldg10AP12 AcadBldg10AP12 (Info): Station 0040963b433c Authenticated
+992485916 Jun 13 22:31:56 AcadBldg10AP12 AcadBldg10AP12 (Info): Station 0040963b433c Associated
+992486025 Jun 13 22:33:45 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 Reassociated
+992486025 Jun 13 22:33:45 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486025 Jun 13 22:33:45 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486034 Jun 13 22:33:54 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992486034 Jun 13 22:33:54 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 roamed
+992486034 Jun 13 22:33:54 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 roamed
+992486040 Jun 13 22:34:00 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Reassociated
+992486040 Jun 13 22:34:00 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486040 Jun 13 22:34:00 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486092 Jun 13 22:34:52 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992486092 Jun 13 22:34:52 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992486092 Jun 13 22:34:52 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992486135 Jun 13 22:35:35 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992486136 Jun 13 22:35:36 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992486136 Jun 13 22:35:36 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992486190 Jun 13 22:36:30 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 Reassociated
+992486190 Jun 13 22:36:30 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486190 Jun 13 22:36:30 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486502 Jun 13 22:41:42 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 Reassociated
+992486502 Jun 13 22:41:42 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992486502 Jun 13 22:41:42 ResBldg3AP4 ResBldg3AP4 (Info): Station 0030658643c4 roamed
+992486577 Jun 13 22:42:57 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992486577 Jun 13 22:42:57 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 roamed
+992486577 Jun 13 22:42:57 ResBldg3AP3 ResBldg3AP3 (Info): Station 0030658643c4 roamed
+992486616 Jun 13 22:43:36 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992486616 Jun 13 22:43:36 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486616 Jun 13 22:43:36 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486878 Jun 13 22:47:58 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992486878 Jun 13 22:47:58 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992486878 Jun 13 22:47:58 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992486996 Jun 13 22:49:56 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992486996 Jun 13 22:49:56 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992486996 Jun 13 22:49:56 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992487148 Jun 13 22:52:28 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992487148 Jun 13 22:52:28 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487148 Jun 13 22:52:28 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487197 Jun 13 22:53:17 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992487197 Jun 13 22:53:17 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992487197 Jun 13 22:53:17 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992487261 Jun 13 22:54:21 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992487261 Jun 13 22:54:21 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487261 Jun 13 22:54:21 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487311 Jun 13 22:55:11 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065fe6512 Authenticated
+992487311 Jun 13 22:55:11 ResBldg22AP1 ResBldg22AP1 (Info): Station 003065fe6512 Associated
+992487492 Jun 13 22:58:12 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992487492 Jun 13 22:58:12 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992487492 Jun 13 22:58:12 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992487747 Jun 13 23:02:27 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992487747 Jun 13 23:02:27 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487747 Jun 13 23:02:27 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487802 Jun 13 23:03:22 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992487802 Jun 13 23:03:22 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992487802 Jun 13 23:03:22 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992487827 Jun 13 23:03:47 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065708c70 Authenticated
+992487827 Jun 13 23:03:47 AcadBldg16AP4 AcadBldg16AP4 (Info): Station 003065708c70 Associated
+992487918 Jun 13 23:05:18 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992487918 Jun 13 23:05:18 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487918 Jun 13 23:05:18 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992487962 Jun 13 23:06:02 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992487963 Jun 13 23:06:03 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992487963 Jun 13 23:06:03 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992487999 Jun 13 23:06:39 ResBldg22AP1 ResBldg22AP1 (Info): Deauthenticating 00409607afd1, reason "Inactivity"
+992488779 Jun 13 23:19:39 AcadBldg10AP12 AcadBldg10AP12 (Info): Deauthenticating 0040963b433c, reason "Inactivity"
+992489006 Jun 13 23:23:26 ResBldg22AP2 ResBldg22AP2 (Info): Deauthenticating 004096a6153a, reason "Inactivity"
+992489041 Jun 13 23:24:01 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Authenticated
+992489041 Jun 13 23:24:01 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Associated
+992489118 Jun 13 23:25:18 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Authenticated
+992489118 Jun 13 23:25:18 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Associated
+992489118 Jun 13 23:25:18 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992489118 Jun 13 23:25:18 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992489140 Jun 13 23:25:40 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Reassociated
+992489140 Jun 13 23:25:40 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992489140 Jun 13 23:25:40 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 roamed
+992489763 Jun 13 23:36:03 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Reassociated
+992489763 Jun 13 23:36:03 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 roamed
+992489789 Jun 13 23:36:29 AcadBldg33AP3 AcadBldg33AP3 (Info): Deauthenticating 00306539db23, reason "Inactivity"
+992489790 Jun 13 23:36:30 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Authenticated
+992489790 Jun 13 23:36:30 AcadBldg12AP2 AcadBldg12AP2 (Info): Station 00306539db23 Associated
+992489792 Jun 13 23:36:32 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Authenticated
+992489792 Jun 13 23:36:32 AcadBldg33AP3 AcadBldg33AP3 (Info): Station 00306539db23 Associated
+992489860 Jun 13 23:37:40 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 Reassociated
+992489860 Jun 13 23:37:40 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992489861 Jun 13 23:37:41 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 roamed
+992490466 Jun 13 23:47:46 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Authenticated
+992490466 Jun 13 23:47:46 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 Associated
+992490486 Jun 13 23:48:06 ResBldg3AP5 ResBldg3AP5 (Info): Station 0030658643c4 Reassociated
+992490486 Jun 13 23:48:06 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992490486 Jun 13 23:48:06 ResBldg3AP1 ResBldg3AP1 (Info): Station 0030658643c4 roamed
+992490510 Jun 13 23:48:30 AcadBldg16AP4 AcadBldg16AP4 (Info): Deauthenticating 003065708c70, reason "Inactivity"
+992490959 Jun 13 23:55:59 ResBldg38AP3 ResBldg38AP3 (Info): Station 003065a426d2 Reassociated
+992490959 Jun 13 23:55:59 ResBldg38AP2 ResBldg38AP2 (Info): Station 003065a426d2 roamed
+992491168 Jun 13 23:59:28 LibBldg1AP8 LibBldg1AP8 (Info): Station 0030652ae306 Authenticated
